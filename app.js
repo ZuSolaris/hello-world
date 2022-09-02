@@ -33,7 +33,7 @@ function questhme() {
 
 
 function customMessage(){
-let inpt = prompt ('What is your favorite phenomena of the three?');
+let inpt = prompt ('What is your favorite phenomena of the three? 1 , 2 , or 3?');
 
  if (inpt === '1') { message ='     Wow thats my favorite too!'; 
  questhme();
